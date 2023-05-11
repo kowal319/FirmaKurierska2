@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/delivery.iml" filepath="$PROJECT_DIR$/delivery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delivery-administration.iml" filepath="$PROJECT_DIR$/delivery-administration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delivery-administration-domain.iml" filepath="$PROJECT_DIR$/delivery-administration-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delivery-administration-infrastructure.iml" filepath="$PROJECT_DIR$/delivery-administration-infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delivery-application.iml" filepath="$PROJECT_DIR$/delivery-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delivery-domain.iml" filepath="$PROJECT_DIR$/delivery-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delivery-infrastructure.iml" filepath="$PROJECT_DIR$/delivery-infrastructure.iml" />
+    </modules>
+  </component>
+</project>
